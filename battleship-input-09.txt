@@ -1,0 +1,2 @@
+test-a7/example-placement.txt
+test-a7/NoSuchFile.txt
